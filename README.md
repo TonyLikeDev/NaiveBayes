@@ -5,6 +5,21 @@ An implementation and walkthrough of Naive Bayes classification based on the Gee
 
 ---
 
+## Getting Started
+
+### 1. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 2. Launch the Notebook / Or view in Google Colab/VSCode
+
+```bash
+jupyter notebook naive_bayes_golf.ipynb
+```
+
+
 ## Overview
 
 This repository demonstrates how Naive Bayes classification works from first principles using the classic weather/golf dataset (`golf.csv`). It covers theory, probability tables, step-by-step manual calculation, custom implementation from scratch, and comparison with scikit-learn.
@@ -45,16 +60,3 @@ This repository demonstrates how Naive Bayes classification works from first pri
 
 ---
 
-## Getting Started
-
-### 1. Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 2. Launch the Notebook / Or view in Google Colab/VSCode
-
-```bash
-jupyter notebook naive_bayes_golf.ipynb
-```
