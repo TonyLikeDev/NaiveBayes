@@ -53,7 +53,7 @@ This repository demonstrates how Naive Bayes classification works from first pri
 pip install -r requirements.txt
 ```
 
-### 2. Launch the Notebook
+### 2. Launch the Notebook / Or view in Google Colab/VSCode
 
 ```bash
 jupyter notebook naive_bayes_golf.ipynb
